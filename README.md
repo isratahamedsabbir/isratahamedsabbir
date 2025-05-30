@@ -1,3 +1,4 @@
+
 # 👋 Hello, I'm Israt Ahamed Sabbir
 
 🎯 Passionate Software Developer | 💻 Laravel Expert | 🌐 Full-Stack Web Developer
@@ -48,9 +49,11 @@ I'm a dedicated and self-motivated software developer with strong experience in 
 - 🌐 [Portfolio Website](https://yourwebsite.com)
 - 💼 [LinkedIn](https://linkedin.com/in/isratahamedsabbir)
 - 📧 Email: isratahamedsabbir@gmail.com
+- 📞 Phone: +880 01775567493
 
 ---
 
 > “Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live.” – John Woods
 
 Thanks for visiting my profile! 😊
+
