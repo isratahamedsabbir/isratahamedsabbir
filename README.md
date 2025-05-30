@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Israt Ahamed Sabbir
 
 🎯 Passionate Software Developer | 💻 Laravel Expert | 🌐 Full-Stack Web Developer
 
@@ -17,12 +17,12 @@ I'm a dedicated and self-motivated software developer with strong experience in 
 ## 🧰 Tech Stack
 
 - **Languages**: PHP, JavaScript, HTML, CSS, SQL
-- **Frameworks**: Laravel, Livewire, Tailwind CSS
-- **Frontend**: Vue.js, Alpine.js, Blade
+- **Frameworks**: Laravel, Livewire, Tailwind CSS, Bootstrap
+- **Frontend**: Vue.js, React, Blade
 - **Database**: MySQL, PostgreSQL
 - **Tools**: Git, GitHub, VS Code, Composer, NPM
 - **DevOps**: AWS, CloudPanel, Ubuntu Server
-- **Other**: RESTful APIs, Guzzle, Reverb, Breeze, Day.js
+- **Other**: RESTful APIs, Guzzle, Reverb, Breeze
 
 ---
 
@@ -46,8 +46,8 @@ I'm a dedicated and self-motivated software developer with strong experience in 
 ## 📫 Let's Connect
 
 - 🌐 [Portfolio Website](https://yourwebsite.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/isratahamedsabbir)
+- 📧 Email: isratahamedsabbir@gmail.com
 
 ---
 
